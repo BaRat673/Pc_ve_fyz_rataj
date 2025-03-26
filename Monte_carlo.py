@@ -87,6 +87,8 @@ def condition2(val):
 
 print('Úloha 4')
 print(n_dim_integral(function4, n=100000, dim=2,con=condition2))
+print()
+print("Omlouvam se za pozdni odevzdani. Mel jsem hotovo uz v ppondeli ale zapomel jsem poslat. Take se mi podarilo zprovoznit git a poslal jsem vam pozvanku.")
 
 def heart(n,dim,con):
     '''
@@ -102,4 +104,4 @@ def heart(n,dim,con):
     plt.ylim(-1.5, 1.5)
     plt.title('MC_Heart')
     plt.show()
-heart(16000,2,condition2)
+#heart(16000,2,condition2)
