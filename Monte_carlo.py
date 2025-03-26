@@ -102,4 +102,4 @@ def heart(n,dim,con):
     plt.ylim(-1.5, 1.5)
     plt.title('MC_Heart')
     plt.show()
-#heart(15000,2,condition2)
+heart(16000,2,condition2)
